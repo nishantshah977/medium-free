@@ -2,6 +2,9 @@
 Chrome extension to read medium articles for free
 
 <img src="medium-free-preview.png" alt="Medium Free Preview"/>
+Medium Free URL: <a href="https://medium-free.vercel.app/read?url=https://medium.com/@satoshihgsn/explaining-zero-knowledge-proofs-in-5-levels-of-difficulty-70a73572d70f/@satoshihgsn/explaining-zero-knowledge-proofs-in-5-levels-of-difficulty-70a73572d70f">Click here</a>
+
+Orignal URL: <a href="https://medium.com/@satoshihgsn/explaining-zero-knowledge-proofs-in-5-levels-of-difficulty-70a73572d70f/@satoshihgsn/explaining-zero-knowledge-proofs-in-5-levels-of-difficulty-70a73572d70f">Click Here</a>
 
 # Methods to use
 Currently there is two methods to use it and they are
