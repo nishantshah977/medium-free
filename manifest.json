@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "name": "Medium Free",
+  "version": "1.0",
+  "description": "Remove Paywall of Medium.com Articles and Enjoy the Content for Free.",
+  "permissions": [
+    "tabs"
+  ],
+  "browser_action": {
+    "default_icon": {
+        "16": "logo.png",
+        "48": "logo.png",
+        "128": "logo.png"
+    },
+    "default_title": "Medium Free"
+  },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://medium.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
