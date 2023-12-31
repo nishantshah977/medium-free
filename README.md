@@ -22,3 +22,10 @@ Currently there is two methods to use it and they are
 
 * Visit Medium's Article and On Adress Bar Search For Bookmark Name ( for e.g Medium Free Bookmarklet )
 * You'll be redirected to url without paywall
+
+# Chrome Extension 
+1. Download Zip from Releases ( Source Code Zip )
+2. Add into chrome extension 
+3. Visit Medium Article
+4. Summon Medium Free Extension
+5. You'll be redirected to url without paywall
