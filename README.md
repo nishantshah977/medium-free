@@ -1,4 +1,4 @@
-# Discontinued Project
+# Note: Discontinued Project
 Chrome extension to read medium articles for free
 
 <img src="medium-free-preview.png" alt="Medium Free Preview"/>
